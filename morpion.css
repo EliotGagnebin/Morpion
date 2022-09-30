@@ -23,7 +23,7 @@ table{
 h1{
     width: fit-content;
     border: 2px solid black;
-    background-image: url("")  ;
+    background-color: white   ;
     padding: 5px;
     margin: auto;
     text-align: center;
