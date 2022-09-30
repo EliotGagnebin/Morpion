@@ -1,0 +1,31 @@
+td {
+    width: 100px;
+    height: 80px;
+    text-align: center;
+    border: solid 5px black;
+
+}
+.symbole_0{
+    background-image:url("../images/morpion/0.png");
+}
+
+.symbole_1{
+    background-image:url("../images/morpion/1.png");
+}
+body{
+    background-color: skyblue ;
+    text-align: center;
+}
+table{
+    margin: auto;
+    background-color: white;
+}
+h1{
+    width: fit-content;
+    border: 2px solid black;
+    background-image: url("")  ;
+    padding: 5px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 20px;
+}
